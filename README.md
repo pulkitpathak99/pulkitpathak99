@@ -1,10 +1,6 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Pulkit Pathak
-=====================================================================================================================================
-
-Senior App Developer at GDSC NSUT
------------------
-
-I am exploring new technologies to become best at my job!!
+<h1 align="center">Hi 👋, I'm Pulkit Pathak</h1>
+<h3 align="center">Turning Data into Insights, One Algorithm at a Time!!</h3>
+<img align="right" alt="Coding" width="400" src="https://www.rofazayn.com/images/hero.gif">
 
 * 🌍  I'm based in Delhi, India
 * ✉️  You can contact me at [pulkitpathak.knp@gmail.com](mailto:pulkitpathak.knp@gmail.com)
