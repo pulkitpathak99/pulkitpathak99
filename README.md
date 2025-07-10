@@ -7,6 +7,7 @@
 
 * 🌍  I'm based in Delhi, India
 * ✉️  You can contact me at [pulkitpathak.knp@gmail.com](mailto:pulkitpathak.knp@gmail.com)
+* 💻  SWE Intern @ Gartner | Ex- SWE Intern @ Hughes Communications India
 * 🧠  I'm learning Frontend Development
 * 🤝  I'm open to collaborating on Web Dev and App Dev Projects
 * ⚡  Eat-Sleep-Code-Repeat is most of my personality .
